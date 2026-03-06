@@ -1,0 +1,2 @@
+https://modelcontextprotocol.io/docs/learn/client-concepts
+https://modelcontextprotocol.io/docs/develop/build-server
